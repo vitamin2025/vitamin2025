@@ -24,7 +24,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Md Rushd Al Amin a <b>2nd year</b>from <a href="https://vit.ac.in/"> <b>Vellore Institute of TechnoTechnology</b>, Vellore, IN</a>. <br>
+    Hello, I am Md Rushd Al Amin a <b>2nd year</b> from <a href="https://vit.ac.in/"> <b>Vellore Institute of TechnoTechnology</b>, Vellore, IN</a>. <br>
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Always ask yourself, What if?”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
