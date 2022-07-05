@@ -2,19 +2,18 @@
 <img src="https://komarev.com/ghpvc/?username=vitmdrushdalamin&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-20-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+<img src="https://img.shields.io/badge/Age-21-blue" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Languages-English_Bengali_Hindi-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Vitamin </h1>
+<h1 align="center">Hi, I am Vitamin </h1>
 <h3 align="center">VIT, Vellore | Computer Science Student </h3>
 <p align="center">Discord: vitamin#2001 </p>
 <p align="center">
 <a href="https://www.hackerrank.com/vitamin01" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mdrushdalamin1/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/mdrushdalamin1/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mdrushdalamin1/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.instagram.com/mdrushdalamin1/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" alt="insta_ovindu" height="30" width="40" /></a>
 <a href="https://www.facebook.com/md.amin01/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
  <a href = "mailto: mdrushd.alamin2020@vitstudent.ac.in"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
@@ -24,15 +23,14 @@
 
 <p align="center">
   <em>
-    Hello, I am Md Rushd Al Amin a <b>2nd year</b> from <a href="https://vit.ac.in/"> <b>Vellore Institute of TechnoTechnology</b>, Vellore, IN</a>. <br>
+    Hello, I am Md Rushd Al Amin a <b>3rd year</b> from <a href="https://vit.ac.in/"> <b>Vellore Institute of TechnoTechnology</b>, Vellore, IN</a>. <br>
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Always ask yourself, What if?”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** 😊 <br>
 ✔ I’m currently working on hackkathon projects<br>
@@ -42,7 +40,7 @@
 <br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***I work on...***
+&nbsp;***I work on...***
 <p align="left">
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/JetBrains_Logo_2016.svg/182px-JetBrains_Logo_2016.svg.png"> </code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"></code>
@@ -58,7 +56,7 @@
   
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ &nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitamin2025&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vitamin2025&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
@@ -73,7 +71,7 @@
 
 -----
 
-Last Updated: 12/11/2021
+Last Updated: 05/07/2022
 
 
 
