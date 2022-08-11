@@ -42,16 +42,12 @@
 
 &nbsp;***I work on...***
 <p align="left">
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/JetBrains_Logo_2016.svg/182px-JetBrains_Logo_2016.svg.png"> </code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"></code>
   <code> <img height="50" src="https://img.icons8.com/color/48/000000/python--v2.png"> </code>
   <code> <img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://img.icons8.com/fluent/48/000000/matlab.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
   <code> <img height="50" src="https://img.icons8.com/ios/50/000000/php.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
   <code> <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"> </code>
   
   <hr>
